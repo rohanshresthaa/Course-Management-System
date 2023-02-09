@@ -7,9 +7,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Hashtable;
-
 import javax.swing.JOptionPane;
 
 import courses.AssignedModule;
@@ -220,9 +217,4 @@ public class Instructor extends User implements Activity {
         }
     }
 
-    @Override
-    public boolean logout() {
-        // TODO Auto-generated method stub
-        return false;
-    }
 }

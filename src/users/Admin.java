@@ -120,11 +120,6 @@ public class Admin extends User implements Activity {
 		}
 	}
 
-	@Override
-	public boolean logout() {
-		// TODO Auto-generated method stub
-		return false;
-	}
 
 
 }

@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 import database.ConnectionDB;
 import exception.InvalidCredintial;
 
-public abstract class User {
+public  class User {
 	public int id;
 	public String name;
 	public String email;
@@ -37,7 +37,5 @@ public abstract class User {
 			ex.printStackTrace();
 		}
 	}
-	
 
-	
 }

@@ -168,10 +168,6 @@ public class Student extends User implements Activity {
         return students;
     }
 
-    @Override
-   public boolean logout() {
-        // TODO Auto-generated method stub
-        return false;
-    }
+  
 
 }
