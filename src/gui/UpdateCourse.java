@@ -28,21 +28,7 @@ public class UpdateCourse {
 	private JTextField cid;
 	private JTextField cname;
 
-	/**
-	 * Launch the application.
-	 */
-//	 public static void main(String[] args) {
-//	 EventQueue.invokeLater(new Runnable() {
-//	 public void run() {
-//	 try {
-//	 UpdateCourse window = new UpdateCourse();
-//	 window.frame.setVisible(true);
-//	 } catch (Exception e) {
-//	 e.printStackTrace();
-//	 }
-//	 }
-//	 });
-//	 }
+
 
 	/**
 	 * Create the application.
